@@ -23,15 +23,15 @@ Este proyecto es un chatbot interactivo que utiliza el modelo `GPT-3.5-turbo` de
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/chatbot-frases-celebres.git
+   git clone https://github.com/tu-usuario/chatbot-frases-celebres.git](https://github.com/cohet3/apis_connection_mll.git
 2. Navega al directorio del proyecto:
    ```bash
-   git clone https://github.com/tu-usuario/chatbot-frases-celebres.git
+   cd apis_connection_mll
 
 3. Instala las dependencias requeridas:
    ```bash
    pip install openai
-4. Instala las dependencias requeridas:
+4. Introduce tu APIkey:
    ```bash
    openai.api_key = 'tu_clave_api'
 
